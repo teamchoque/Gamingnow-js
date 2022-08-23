@@ -1,10 +1,10 @@
-PROJETO GAMING NOW 
+----projeto web games----
 
-TECNOLOGIAS: HTML - CSS - JS 
+[ ] criar o index, css, js 
+[ ] construir o header 
+[ ] construir o main
+[ ] construir flooter
+[ ] JS 
+[ ] Melhorias finais 
+[ ] Apresentação do projeto 
 
-- README 
-- INDEX
-- CSS 
-- HEADER 
-- MAIN
-- FOOTER
